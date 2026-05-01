@@ -24,7 +24,7 @@ def main():
                 'listingTime': '2026-03-11 18:00（UTC+8）'
             }
         },
-        'userId': 'telegram:8752109743',
+        'userId': 'telegram:2124211464',
         'requestId': 'sched-review-tg-001',
         'traceId': 'trace-review-tg-001',
     })
@@ -53,7 +53,7 @@ def main():
                 'reason': '涨太多了，想吃一波回调'
             }
         },
-        'userId': 'telegram:8752109743',
+        'userId': 'telegram:2124211464',
         'requestId': 'sched-risk-tg-001',
         'traceId': 'trace-risk-tg-001',
     })
