@@ -53,7 +53,7 @@ def main():
                 'reason': '涨太多了，想吃一波回调'
             }
         },
-        'userId': 'telegram:6482140148',
+        'userId': 'telegram:8752109743',
         'requestId': 'sched-risk-tg-001',
         'traceId': 'trace-risk-tg-001',
     })
