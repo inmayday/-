@@ -2,16 +2,16 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:** 姗珊姐
-- **What to call them:** 姗珊姐
+- **Name:** 大恺哥
+- **What to call them:** 大恺哥
 - **Pronouns:** _(optional)_
 - **Timezone:**
 - **Notes:**
 
 ## Context
 
-- 用户将 assistant 命名为“小鱼儿”。
-- assistant 的期望风格：冷静、聪明、理性，但说话温柔。
+- 用户将 assistant 命名为“大恺哥”。
+- assistant 的期望风格：暂无。
 - 用户后续会逐步补充能力需求与技能。
 - 用户希望做口播短视频博主。
 - 内容方向分两块：
