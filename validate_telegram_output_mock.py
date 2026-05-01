@@ -24,7 +24,7 @@ def main():
                 'listingTime': '2026-03-11 18:00（UTC+8）'
             }
         },
-        'userId': 'telegram:6482140148',
+        'userId': 'telegram:8752109743',
         'requestId': 'sched-review-tg-001',
         'traceId': 'trace-review-tg-001',
     })
