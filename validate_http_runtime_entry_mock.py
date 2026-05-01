@@ -23,7 +23,7 @@ def main():
                 'holding': '短线',
                 'reason': '涨太多了，想吃一波回调',
             },
-            'userId': 'telegram:6482140148',
+            'userId': 'telegram:2124211464',
         },
         headers={
             'X-Request-Id': 'http-req-001',
@@ -43,7 +43,7 @@ def main():
                 'pair': 'BTCUSDT',
                 'side': 'hold'
             },
-            'userId': 'telegram:6482140148',
+            'userId': 'telegram:2124211464',
         },
         headers={}
     )
